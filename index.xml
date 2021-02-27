@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My First Blog</title>
+    <link>https://qinshuxing0214.github.io/</link>
+    <description>Recent content on My First Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 28 Feb 2021 00:34:32 +0800</lastBuildDate><atom:link href="https://qinshuxing0214.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use Hugo to Build a Blog</title>
+      <link>https://qinshuxing0214.github.io/post/post/</link>
+      <pubDate>Sun, 28 Feb 2021 00:34:32 +0800</pubDate>
+      
+      <guid>https://qinshuxing0214.github.io/post/post/</guid>
+      <description>Quick Start Create a Hugo site using the beautiful blackburn theme.
+Step 1: Install Hugo Install Hugo on Windows, and on a machine where the Go compiler tool can run.
+ There is lots of talk about “Hugo being written in Go”, but you don’t need to install Go to enjoy Hugo. Just grab a precompiled binary!
+   Download the hugo installation package according to the operating system version.</description>
+    </item>
+    
+  </channel>
+</rss>
